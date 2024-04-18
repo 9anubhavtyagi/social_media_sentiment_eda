@@ -1,0 +1,16 @@
+﻿Data Dictionary Social media
+
+
+* Text: The text content of the social media post.
+* Sentiment: Categorized sentiment of the post (e.g., Positive, Negative, Neutral).
+* Timestamp: The date and time when the post was made.
+* User: Identifier or username of the post's author.
+* Platform: The social media platform where the post was made (e.g., Twitter, Facebook).
+* Hashtags: Hashtags used in the post, indicating topics or themes.
+* Retweets: The number of times the post has been retweeted or shared.
+* Likes: The number of likes the post has received.
+* Country: The country from which the post was made.
+* Year: The year when the post was made.
+* Month: The month when the post was made.
+* Day: The day of the month when the post was made.
+* Hour: The hour of the day when the post was made, using a 24-hour clock.
