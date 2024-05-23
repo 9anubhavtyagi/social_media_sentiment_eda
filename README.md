@@ -49,7 +49,7 @@ Based on the analysis, the following insights and recommendations are derived:
     - Posts related to Joy sentiments on Facebook do not engage as much audience as Instagram, despite having more posts.
 
 4. Geographical Engagement:
-The USA, UK, and Canada are the top 3 countries with the highest engagement.
+    - The USA, UK, and Canada are the top 3 countries with the highest engagement.
 
 5. Engagement and Sentiments:
     - Users with maximum engagements often express sentiments like 'Elation', 'Wonder', 'Coziness', and 'Inspiration'.
